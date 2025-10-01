@@ -43,9 +43,6 @@ JFrame (BorderLayout)
 └─ SOUTH: buttonBar (FlowLayout RIGHT)
 └─ JButton (Cancelar, Limpiar, Guardar)
 
-yaml
-Copiar código
-
 ---
 
 ## 🛠️ Construcción paso a paso
@@ -62,15 +59,14 @@ Copiar código
 ## 📸 Capturas de pantalla
 
 1. 🖼️ **Vista general de la ventana principal**  
-![Vista general](docs/vista_general.png)  
-
-2. 🔄 **Ventana redimensionada (comprobando comportamiento)**  
-![Redimensionada](docs/redimensionada.png)  
+![Vista general](interfazPrincipal.png)  
 
 3. 📑 **Pestañas del JTabbedPane (Resumen y Logs)**  
-![Pestañas](docs/pestanas.png)  
+![Pestaña1](resumenImagen.png)
 
-4. ⚠️ **Diálogo modal de confirmación**  
+![Pestaña2](logsImagen.png) 
+
+5. ⚠️ **Diálogo modal de confirmación**  
 ![Diálogo modal](docs/dialogo.png)  
 
 ---
