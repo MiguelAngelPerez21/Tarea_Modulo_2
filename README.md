@@ -61,13 +61,13 @@ JFrame (BorderLayout)
 1. 🖼️ **Vista general de la ventana principal**  
 ![Vista general](interfazPrincipal.png)  
 
-3. 📑 **Pestañas del JTabbedPane (Resumen y Logs)**  
+2. 📑 **Pestañas del JTabbedPane (Resumen y Logs)**  
 ![Pestaña1](resumenImagen.png)
 
 ![Pestaña2](logsImagen.png) 
 
-5. ⚠️ **Diálogo modal de confirmación**  
-![Diálogo modal](docs/dialogo.png)  
+3. ⚠️ **Diálogo modal de confirmación**  
+![Diálogo modal](guardarImagen.png)  
 
 ---
 
